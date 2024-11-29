@@ -24,3 +24,6 @@ for (i = 0; i < nbPair.length; i++) {
 const numbers2 = [12, 21, 67, 36, 49, 51];
 
 // your code here
+// function maxNumber(numbers)
+
+console.log(Math.max(...numbers2));
